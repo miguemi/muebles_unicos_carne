@@ -1,4 +1,4 @@
-# Descripción de la Aplicación
+
 
 ## Aplicación de Catálogo de Productos de Hogar
 
